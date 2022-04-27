@@ -20,3 +20,6 @@
     > Identify what were most people thinking about or tweeting for
 * Sentiment Analysis: Classification for sentiment(5 classes: Neutral / Positive / Extremely Positive / Negative / Extremely Negative)
     Potential Model: BERT?
+
+#### Preprocessing
+* One-hot encoding
