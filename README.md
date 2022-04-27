@@ -10,9 +10,9 @@
     > Identify what poeple with different emotions were considering about
 * EDA: Word2vec with Clustering
     > Word2Vec: Effective for detecting the synonymous words or suggesting additional words for a partial sentence
-    <br>
+
     Clustering methods: K-means + DBScan
-    <br>
+    
     Use all the words in a specific part-of-speech from all the documents (e.g. all nouns / all adj.s)
 * Topic Modeling: Feature extraction by TFIDF + Latent Dirichlet Allocation
     > Build a pipeline with kFoldCV to find the best topic number
