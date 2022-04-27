@@ -12,11 +12,11 @@
     > Word2Vec: Effective for detecting the synonymous words or suggesting additional words for a partial sentence
 
     Clustering methods: K-means + DBScan
-    
+
     Use all the words in a specific part-of-speech from all the documents (e.g. all nouns / all adj.s)
 * Topic Modeling: Feature extraction by TFIDF + Latent Dirichlet Allocation
-    > Build a pipeline with kFoldCV to find the best topic number
+    Build a pipeline with kFoldCV to find the best topic number
 * Automatic summrization
     > Identify what were most people thinking about or tweeting for
 * Sentiment Analysis: Classification for sentiment(5 classes: Neutral / Positive / Extremely Positive / Negative / Extremely Negative)
-    > Potential Model: BERT?
+    Potential Model: BERT?
